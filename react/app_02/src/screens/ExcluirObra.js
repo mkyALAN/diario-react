@@ -1,4 +1,3 @@
-// ExcluirObra.js
 import React, { useState } from 'react';
 import { View, Text, TouchableOpacity, StyleSheet, Alert } from 'react-native';
 

@@ -1,4 +1,3 @@
-// ListarObras.js
 import React, { useState } from 'react';
 import { View, Text, FlatList, StyleSheet, Image, TouchableOpacity, Alert } from 'react-native';
 

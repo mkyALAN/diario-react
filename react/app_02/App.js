@@ -19,7 +19,7 @@ const Stack = createNativeStackNavigator();
 const App = () => {
     return (
         <NavigationContainer>
-        <Stack.Navigator initialRouteName="ListarObras">
+        <Stack.Navigator initialRouteName="LoginScreen">
             <Stack.Screen
                 name="ListarObras"
                 component={ListarObras}
